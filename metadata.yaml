@@ -1,0 +1,29 @@
+_repo: Sermons-on-Various-Important-Subjects--13-Written-Partly-on-Sundry-of-the-More-Difficult-Pass__15031
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lee, Andrew
+    birthdate: 1745
+    deathdate: 1832
+    gutenberg_agent_id: '5804'
+    url: http://www.gutenberg.org/2009/agents/5804
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2005-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15031'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Sermons, American'
+- !lcsh 'Bible -- Sermons'
+title: "Sermons on Various Important Subjects\r\nWritten Partly on Sundry of the More\
+  \ Difficult Passages in the Sacred Volume"
+url: http://www.gutenberg.org/ebooks/15031
